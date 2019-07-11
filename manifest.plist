@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://132.232.157.23:8086/img/download/ios/ticket.ipa</string>
+					<string>http://47.108.71.60:8083/ThinkAdmin/public/upload/ios20.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://132.232.157.23:8086/img/download/ios/ticket57.png</string>
+					<string>http://img.rhxsf.top/ticket57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://132.232.157.23:8086/img/download/ios/ticket512.png</string>
+					<string>http://img.rhxsf.top/ticket512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
